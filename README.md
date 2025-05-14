@@ -22,7 +22,7 @@ Beatsync App is a Flutter-based mobile application designed to help users track 
 *   **API Communication:** Dio
 *   **Environment Variables:** `flutter_dotenv` for managing configurations.
 *   **Routing:** `go_router`
-*   **Local Storage:** (e.g., `shared_preferences` 
+*   **Local Storage:** `shared_preferences` 
 
 ## 📋 Prerequisites
 
