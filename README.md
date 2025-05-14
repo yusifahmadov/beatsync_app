@@ -47,13 +47,8 @@ The application uses an `.env` file for sensitive configurations like API keys o
 *   Populate it with the necessary environment variables. Refer to `assets/.env.example` if provided, or use the following template:
 
     ```env
-    # Example: API Base URL for your backend
-    # API_BASE_URL=http://localhost:3000/api
-
-    # Other sensitive keys or configurations
-    # SOME_OTHER_KEY=your_secret_value
+    # BASE_URL=http://localhost:3000/api
     ```
-    *(Please list the actual environment variables your app requires here).*
 
 **3. Install Dependencies:**
 Navigate to the project root and run:
