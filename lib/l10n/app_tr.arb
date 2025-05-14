@@ -1,0 +1,42 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Beatsync Uygulaması",
+  "@appTitle": {
+    "description": "Uygulamanın başlığı"
+  },
+  "helloWorld": "Merhaba Dünya Temalı!",
+  "@helloWorld": {
+    "description": "Basit bir selamlama mesajı"
+  },
+  "lightThemeButton": "Açık Tema",
+  "darkThemeButton": "Koyu Tema",
+  "systemThemeButton": "Sistem Teması",
+  "currentThemeModeLabel": "Mevcut Tema Modu:",
+  "sampleThemedElementsLabel": "Örnek temalı öğeler:",
+  "sampleCardText": "Bu bir Karttır",
+  "sampleTextFieldLabel": "Örnek Metin Alanı",
+  "sampleTextFieldHint": "Metni buraya girin",
+  "themeSwitcherPageTitle": "Tema Değiştirici",
+  "loginButton": "Giriş Yap",
+  "emailLabel": "E-posta",
+  "passwordLabel": "Şifre",
+  "registerButton": "Kayıt Ol",
+  "logoutButton": "Çıkış Yap",
+  "confirmLogoutTitle": "Çıkışı Onayla",
+  "confirmLogoutMessage": "Çıkış yapmak istediğinizden emin misiniz?",
+  "cancelButton": "İptal",
+  "profileTitle": "Profil",
+  "settingsTitle": "Ayarlar",
+  "languageSettingTitle": "Dil",
+  "languageEnglish": "İngilizce",
+  "languageTurkish": "Türkçe",
+  "themeSettingTitle": "Tema",
+  "themeLight": "Açık",
+  "themeDark": "Koyu",
+  "themeSystem": "Sistem",
+  "myStatisticsButton": "İstatistiklerim",
+  "loading": "Yükleniyor...",
+  "guestUser": "Misafir Kullanıcı",
+  "tappedNotImplemented": "Dokunuldu (Uygulanmadı)", 
+  "notLoggedInMessage": "Giriş yapılmadı. Lütfen tekrar giriş yapın."
+}

@@ -1,0 +1,7 @@
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+# Optional: if you want to specify the output class name
+# output-class: AppLocalizations
+# Optional: if your AppLocalizations.dart file should be nullable
+# nullable-getter: false 

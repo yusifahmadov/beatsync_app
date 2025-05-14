@@ -1,0 +1,42 @@
+{
+  "@@locale": "en",
+  "appTitle": "Beatsync App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "helloWorld": "Hello World with Theming!",
+  "@helloWorld": {
+    "description": "A simple greeting message"
+  },
+  "lightThemeButton": "Light Theme",
+  "darkThemeButton": "Dark Theme",
+  "systemThemeButton": "System Theme",
+  "currentThemeModeLabel": "Current ThemeMode:",
+  "sampleThemedElementsLabel": "Sample themed elements:",
+  "sampleCardText": "This is a Card",
+  "sampleTextFieldLabel": "Sample TextField",
+  "sampleTextFieldHint": "Enter text here",
+  "themeSwitcherPageTitle": "Theme Switcher",
+  "loginButton": "Login",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "registerButton": "Register",
+  "logoutButton": "Logout",
+  "confirmLogoutTitle": "Confirm Logout",
+  "confirmLogoutMessage": "Are you sure you want to log out?",
+  "cancelButton": "Cancel",
+  "profileTitle": "Profile",
+  "settingsTitle": "Settings",
+  "languageSettingTitle": "Language",
+  "languageEnglish": "English",
+  "languageTurkish": "Turkish",
+  "themeSettingTitle": "Theme",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeSystem": "System",
+  "myStatisticsButton": "My Statistics",
+  "loading": "Loading...",
+  "guestUser": "Guest User",
+  "tappedNotImplemented": "Tapped (Not Implemented)",
+  "notLoggedInMessage": "Not logged in. Please login again."
+}
