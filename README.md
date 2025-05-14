@@ -24,15 +24,6 @@ Beatsync App is a Flutter-based mobile application designed to help users track 
 *   **Routing:** `go_router`
 *   **Local Storage:** (e.g., `shared_preferences` - *specify if used for settings/auth tokens*)
 
-## 📸 Screenshots
-
-*(Add a few screenshots or a GIF showcasing the app's main screens and features here. Visuals greatly enhance the README!)*
-
-*   *Login/Registration Screen*
-*   *Home Dashboard with HRV Overview*
-*   *Heart Rate Measurement Screen*
-*   *Historical Data/Trends View*
-
 ## 📋 Prerequisites
 
 *   Flutter SDK (Recommended: 3.19.x or later)
